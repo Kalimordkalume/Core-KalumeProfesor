@@ -89,3 +89,6 @@ local_settings.py
 db.sqlite3
 
 #Environments
+venv
+*.pyc
+db.sqlite3
